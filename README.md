@@ -187,6 +187,6 @@ This project, **Smart Reflector for Road Safety**, was developed as part of an a
 
 ## 👨‍💻 Project Status
 
-**Status:** Academic Prototype / Completed
+**Status:** Completed
 
 This repository documents the physical prototype and its implementation as an academic engineering project focused on improving visibility and safety on roads.
