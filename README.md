@@ -112,7 +112,7 @@ You can also upload the video separately to the repository or attach it to the G
 ## 📁 Repository Structure
 
 ```text
-esp32-smart-emergency-light/
+esp32-Smart-Reflector-for-Road-Safety/
 │
 ├── README.md
 ├── .gitignore
